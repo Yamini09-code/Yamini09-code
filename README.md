@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamini</h1>
-<h3 align="center">A self learner, who believes Youtube is her school!</h3>
+<h3 align="center">A self learner who believes in learning in Public</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamini09-code&label=Profile%20views&color=0e75b6&style=flat" alt="yamini09-code" /> </p>
 
