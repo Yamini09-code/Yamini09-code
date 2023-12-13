@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/yamini72957296" target="blank"><img src="https://img.shields.io/twitter/follow/yamini72957296?logo=twitter&style=for-the-badge" alt="yamini72957296" /></a> </p>
 
-- 🔭 I’m currently working on **building my data-analytics portfolio.**    
+- 🔭 I’m currently working on **expanding my data-analytics portfolio.**
 
-- 🌱 I’m currently building projects using **Python, Advance Excel, Power BI, SQL**
+- ⚡  I am building strong **domain knowledge** and learning **statistics** to provide best insights to my clients, teams or company.
 
-- 👯 I’m looking to collaborate on **open source projects!**
+- 🌱 I’m currently building insightful projects using **Python, Advance Excel, Power BI, SQL.** (Do check the repos)
 
-- 📫 How to reach me **kaushalyamini952@gmail.com**
+- 👯 Looking for **work opportunites** ( freelance projects, onsite, remote or hybrid).
 
-- ⚡ Fun fact **I like maggie with tomato ketchup 😂**
+- 📫 How to reach me **kaushalyamini952@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
