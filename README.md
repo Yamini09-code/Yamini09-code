@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yamini72957296" target="blank"><img src="https://img.shields.io/twitter/follow/yamini72957296?logo=twitter&style=for-the-badge" alt="yamini72957296" /></a> </p>
 
-- 🔭 I’m currently working on **building my portfolio.**    
+- 🔭 I’m currently working on **building my data-analytics portfolio.**    
 
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
+- 🌱 I’m currently building projects using **Python, Advance Excel, Power BI, SQL**
 
 - 👯 I’m looking to collaborate on **open source projects!**
 
